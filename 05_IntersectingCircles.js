@@ -35,7 +35,7 @@ const X2 = 100;
 const Y2 = 181;
 
 const radius1 = 40;
-const radius2 = 80;
+const radius2 = 40;
 
 const BLACK = r.BLACK;
 const RED = r.RED;
